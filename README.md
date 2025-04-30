@@ -38,7 +38,7 @@ My academic background includes an Erasmus Mundus master's in Computational Mech
 - Illustration & Visuals: Inkscape, Krita, Blender
 - Mark-up & Docs: HTML, CSS, LaTeX, Markdown, XML, YAML
 - Video tools: ![ffmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white), Kdenlive, OBS, Canva
-- 
+
 ## 📚 Communication & Outreach
 - Teaching and mentoring
 - Scientific and technical writing
