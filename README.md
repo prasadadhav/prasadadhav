@@ -35,7 +35,7 @@ My academic background includes an Erasmus Mundus master's in Computational Mech
 - Analysis tools: ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white), Matplotlib, ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white), ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly), ParaView, R Shiny
-- Deployment: ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?&logo=numpy&logoColor=blue), 
+- Deployment: ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?&logo=numpy&logoColor=blue), Hugging Face
 - Graphical Models: pgmpy, pyaGrUM, bnlearn, Netica, Bayes Server
 
 ## 🧭 Geospatial & Visualization
@@ -55,8 +55,8 @@ My academic background includes an Erasmus Mundus master's in Computational Mech
 
 ```text
 🇬🇧 English       ██████████████████░░  Fluent  
-🇫🇷 French        █████████████░░░░░░  Conversant  
-🇱🇺 Luxembourgish ████████░░░░░░░░░░░  Faux-débutant  
+🇫🇷 French        █████████████░░░░░░░  Conversant  
+🇱🇺 Luxembourgish ████████░░░░░░░░░░░░  Faux-débutant  
 🇮🇳 Hindi         ██████████████████░░  Fluent  
 🇮🇳 Marathi       ████████████████████  Native  
 ```
