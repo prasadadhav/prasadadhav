@@ -25,6 +25,7 @@ My academic background includes an Erasmus Mundus master's in Computational Mech
 - Dev tools: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white),
   ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=fff),
   ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?&logo=Qt&logoColor=white), ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff), CI/CD pipelines, ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white), ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+- Quantum Computing: ![QSKIT](https://img.shields.io/badge/IBM_Qiskit-6929C4?style=flat&logo=qiskit&logoColor=white), TensorFlow Quantum
 - OS: 	![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black), ![Debian](https://img.shields.io/badge/Debian-D70A53?&logo=debian&logoColor=white), ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?&logo=kubuntu&logoColor=white), ![Fedora](https://img.shields.io/badge/Fedora-294172?&logo=fedora&logoColor=white), 	![Cent OS](https://img.shields.io/badge/cent%20os-002260?&logo=centos&logoColor=F0F0F0), ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?&logo=ubuntu&logoColor=white), ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?&logo=Windows%2011&logoColor=white)
 
 ## 📊 Data Science & Machine Learning
