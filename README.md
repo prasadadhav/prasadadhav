@@ -4,7 +4,7 @@ I'm Prasad Adhav, a Ph.D. from the University of Luxembourg with over **7 years*
 
 My academic background includes an Erasmus Mundus master's in Computational Mechanics from Universitat Politècnica de Catalunya (Barcelona) and École Centrale de Nantes (France), as well as a Bachelor's in Mechanical Engineering from the University of Pune. I'm passionate about bridging science, software, and creativity – always seeking to push the boundaries through collaborative, impactful projects. Additinally, I have done Master's course in Machine Learning & Neural Networks from MIT (completed online).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadadhav&layout=compact&hide=jupyter%20notebook,javascript,html,css,tex,vim%20script,emacs%20lisp,php,lua&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadadhav&layout=compact&hide=jupyter%20notebook,javascript,html,css,vim%20script,emacs%20lisp,php,lua,qml&show_icons=true&theme=tokyonight)
 
 
 ---
