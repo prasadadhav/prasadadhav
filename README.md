@@ -78,6 +78,3 @@ My academic background includes an Erasmus Mundus master's in Computational Mech
   <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Full-Year GitHub Activity">
 </picture>
 
-
-[![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasadadhav)](https://github.com/b-rodrigues/github-readme-stats)
-
